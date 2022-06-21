@@ -11,3 +11,13 @@ For node metrics, use this command:
 `go run main.go -entity nodes`
 
 ## Example of table generated:
+
+For pods:
+
+
+![alt text](https://github.com/26tanishabanik/Kubernetes-go-metrics-tool/blob/main/assets/pods.png?raw=true)
+
+For nodes:
+
+
+![alt text](https://github.com/26tanishabanik/Kubernetes-go-metrics-tool/blob/main/assets/nodes.png?raw=true)
